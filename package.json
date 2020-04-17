@@ -1,0 +1,23 @@
+{
+  "name": "2020-04-17-personal-npm-package",
+  "version": "1.0.0",
+  "description": "## Prize",
+  "main": "palindrome.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maanderz/2020-04-17-personal-npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maanderz/2020-04-17-personal-npm-package/issues"
+  },
+  "homepage": "https://github.com/maanderz/2020-04-17-personal-npm-package#readme"
+}
