@@ -1,4 +1,4 @@
-const palindrome = require('../functions/palindrome.js/index.js');
+const palindrome = require('../functions/palindrome.js');
 const assert = require('assert');
 
 describe('Palindrome test', function () {
